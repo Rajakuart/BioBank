@@ -5,14 +5,20 @@ This framework includes custom fixtures, reusable page objects, and typed URL co
 
 # Features
 => Playwright + TypeScript — Modern E2E testing with type safety
+
 => Page Object Model (POM) — Clean separation of test logic and UI interactions
+
 => Custom Fixtures — Reusable components for shared setup and teardown
+
 => JSDoc Comments — Clear in-code documentation and IntelliSense support
+
 => URL Constants — Centralized URL management for consistency
+
 => Scalable Structure — Easy to maintain and extend
 
 
 # CProject Structure 
+
  project-root
 ├──  fixtures/              # Custom fixtures for Playwright test extensions
 │   └── test.extend.ts
